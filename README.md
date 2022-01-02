@@ -1,5 +1,5 @@
 # Pokemon_Game
 my first pokemon fangame
 
-# Requirments
+## Requirments
 RPG maker XP (download from steam).
