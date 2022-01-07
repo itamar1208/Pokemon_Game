@@ -113,6 +113,12 @@ MapPosition = 0,14,8
 BattleBack = field
 MapSize = 1,11
 #-------------------------------
+[022]
+# TownHiddenInLeaves
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
 [023]
 # Lerucean Town
 Outdoor = true
@@ -239,6 +245,12 @@ MapPosition = 0,15,10
 BattleBack = rocky
 MapSize = 2,11
 Environment = Rock
+#-------------------------------
+[048]
+# BegginerForest
+Outdoor = true
+ShowArea = true
+Bicycle = true
 #-------------------------------
 [049]
 # Rock Cave
