@@ -251,6 +251,7 @@ Environment = Rock
 Outdoor = true
 ShowArea = true
 Bicycle = true
+BattleBack = field
 #-------------------------------
 [049]
 # Rock Cave
